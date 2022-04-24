@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Steven Haussmann
+title: Computer Science Graduate Student
+email: hausss@rpi.edu
+website: www.github.com/Etherealflux
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  etherealflux
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,72 +48,105 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a graduate student in the field of computer science. My research is directed towards program obfuscation and the study thereof. I greatly enjoy teaching, and have found working as a teaching assistant to be very fulfilling.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am the current president of RPISEC, which is RPI's security club.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Rose-Hulman Institute of Technology
+        caption: 2013 - 2017
+        sub_title: BSc Computer Science & BSc Chemistry
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Being uncertain about where my interests would settle &mdash; chemistry or computer science &mdash; I wound up pursuing both. This required a great deal of time and dedication, but gave me a very broad body of knowledge.
+      - layout: left
+        title: Rensselaer Polytechnic Institute
+        caption: 2017 - *
+        sub_title: Pursuing a PhD in Computer Science
+        description: | # this will include new lines to allow paragraphs
+          I am currently a doctoral student at RPI, as described above.
+          
+  - title: Teaching Assistant Experience
+    layout: list
+    content:
+      - layout: left
+        title: CSCI-1200 Data Structures
+        caption: Spring 2022
+        description: I consider this to be a "formative" class for CS majors &mdash; it is where they are first exposed to a vast range of vital topics. So, it is essential that students receive all the guidance they need to come out with a good understanding of the material.
+      - layout: left
+        title: CSCI-2300 Introduction to Algorithms 
+        caption: Fall 2021
+      - layout: left
+        title: CSCI-4230 Cryptography and Network Security I
+        caption: Fall 2021
+        description: I have TA'd this course twice now (and am hoping to do so for a third time this summer). Going through the material several times has greatly strengthed my understanding of cryptography, and I'm looking forward to continue sharing that knowledge.
+      - layout: left
+        title: CSCI-4380 Database Systems
+        caption: Spring 2021
+      - layout: left
+        title: CSCI-4230 Cryptography and Network Security I
+        caption: Spring 2021
+      - layout: left
+        title: CSCI-4430 Programming Languages
+        caption: Fall 2020
+        description: Programming Languages is a major opportunity to expose students to new ideas. My only regret is that it's not taught sooner.
+      - layout: left
+        title: CSCI-4450 Program Analysis
+        caption: Spring 2020
+      - layout: left
+        title: CSCI-4430 Programming Languages
+        caption: Fall 2019
+      - layout: left
+        title: PHYS-1200 Physics II
+        caption: Fall 2017
+        description: Since I have a background in chemistry, I was assigned to a physics class during my first semester at RPI.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Work Experience
+    layout: list
+    content:
+      - layout: left
+        title: Internship at Indigo BioAutomation
+        caption: Summer 2015
+        description: I interned at [Indigo BioAutomation](https://www.indigobio.com) during my time at Rose-Hulman. I mostly focused on web development, learning to use Ruby/Ruby on Rails to add features to their product.
+      - layout: left
+        title: Instruction at iD Tech Summer Camps
+        caption: Summer 2016
+        description: I taught a variety of topics to children ranging from early middle school to late high school, including programming in Java and developing game mods.
 
-  - title: A Little More About Me
+  - title: Programming Experience
+    layout: list
+    content:
+    - layout: left
+      title: Languages
+      description: |
+        I have experience in the following programming languages, ranked roughly from most to least familiarity:
+        - Python
+        - C++
+        - Java
+        - C
+        - Haskell
+    - layout: left
+      title: Topics
+      description: |
+        Some general topics that I have significant experience with are, in no particular order:
+        - Reverse engineering
+        - Large-scale data collection and analysis
+        - Cryptography
+        - Client and server-side web exploitation
+  - title: Other Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      I have a very broad range of miscellaneous experience:
+      - Physical security and lockpicking
+      - Competitive cybersecurity events (aka Capture The Flag/CTF games)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I enjoy poking holes in things and seeing how they break.
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
