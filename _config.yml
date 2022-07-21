@@ -73,6 +73,12 @@ content:
     layout: list
     content:
       - layout: left
+        title: CSCI-4230 Cryptography and Network security I
+        caption: Summer 2022
+      - layout: left
+        title: CSCI-4210 Operating Systems
+        caption: Summer 2022
+      - layout: left
         title: CSCI-1200 Data Structures
         caption: Spring 2022
         description: I consider this to be a "formative" class for CS majors &mdash; it is where they are first exposed to a vast range of vital topics. So, it is essential that students receive all the guidance they need to come out with a good understanding of the material.
